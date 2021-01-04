@@ -1,0 +1,9 @@
+/Users/imac/Projects/assigment2/assigment2.Core/bin/Debug/netcoreapp3.1/assigment2.Core.deps.json
+/Users/imac/Projects/assigment2/assigment2.Core/bin/Debug/netcoreapp3.1/assigment2.Core.dll
+/Users/imac/Projects/assigment2/assigment2.Core/bin/Debug/netcoreapp3.1/assigment2.Core.pdb
+/Users/imac/Projects/assigment2/assigment2.Core/obj/Debug/netcoreapp3.1/assigment2.Core.csprojAssemblyReference.cache
+/Users/imac/Projects/assigment2/assigment2.Core/obj/Debug/netcoreapp3.1/assigment2.Core.AssemblyInfoInputs.cache
+/Users/imac/Projects/assigment2/assigment2.Core/obj/Debug/netcoreapp3.1/assigment2.Core.AssemblyInfo.cs
+/Users/imac/Projects/assigment2/assigment2.Core/obj/Debug/netcoreapp3.1/assigment2.Core.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/assigment2/assigment2.Core/obj/Debug/netcoreapp3.1/assigment2.Core.dll
+/Users/imac/Projects/assigment2/assigment2.Core/obj/Debug/netcoreapp3.1/assigment2.Core.pdb

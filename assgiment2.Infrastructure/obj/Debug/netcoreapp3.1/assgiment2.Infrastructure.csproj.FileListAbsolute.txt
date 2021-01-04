@@ -1,0 +1,15 @@
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assgiment2.Infrastructure.deps.json
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assgiment2.Infrastructure.dll
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assgiment2.Infrastructure.pdb
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assigment2.Core.dll
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assigment2.Core.pdb
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.csprojAssemblyReference.cache
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.AssemblyInfoInputs.cache
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.AssemblyInfo.cs
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.csproj.CopyComplete
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.dll
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.pdb
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assgiment2.Infrastructure.runtimeconfig.json
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/bin/Debug/netcoreapp3.1/assgiment2.Infrastructure.runtimeconfig.dev.json
+/Users/imac/Projects/assigment2/assgiment2.Infrastructure/obj/Debug/netcoreapp3.1/assgiment2.Infrastructure.genruntimeconfig.cache

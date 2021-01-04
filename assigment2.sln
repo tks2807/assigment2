@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment2", "assigment2\assigment2.csproj", "{70A1526A-4AF9-4131-AFCD-2F9F6EED9058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assgiment2.Infrastructure", "assgiment2.Infrastructure\assgiment2.Infrastructure.csproj", "{822F1E08-F477-40A5-9384-EE11DBA3EB74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment2.Core", "assigment2.Core\assigment2.Core.csproj", "{121DD016-138C-429F-A21B-D124B61DAEE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService", "EmailService\EmailService.csproj", "{7E5EB426-E369-4BC0-9DCD-9E6529F1D9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerFolderService", "WorkerFolderService\WorkerFolderService.csproj", "{E5876247-30DD-4EF1-8760-9EFC28D61506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A1526A-4AF9-4131-AFCD-2F9F6EED9058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A1526A-4AF9-4131-AFCD-2F9F6EED9058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A1526A-4AF9-4131-AFCD-2F9F6EED9058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A1526A-4AF9-4131-AFCD-2F9F6EED9058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822F1E08-F477-40A5-9384-EE11DBA3EB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822F1E08-F477-40A5-9384-EE11DBA3EB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822F1E08-F477-40A5-9384-EE11DBA3EB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822F1E08-F477-40A5-9384-EE11DBA3EB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121DD016-138C-429F-A21B-D124B61DAEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121DD016-138C-429F-A21B-D124B61DAEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121DD016-138C-429F-A21B-D124B61DAEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121DD016-138C-429F-A21B-D124B61DAEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5EB426-E369-4BC0-9DCD-9E6529F1D9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5EB426-E369-4BC0-9DCD-9E6529F1D9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5EB426-E369-4BC0-9DCD-9E6529F1D9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5EB426-E369-4BC0-9DCD-9E6529F1D9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5876247-30DD-4EF1-8760-9EFC28D61506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5876247-30DD-4EF1-8760-9EFC28D61506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5876247-30DD-4EF1-8760-9EFC28D61506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5876247-30DD-4EF1-8760-9EFC28D61506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+	EndGlobalSection
+EndGlobal
